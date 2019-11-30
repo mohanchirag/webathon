@@ -1,0 +1,68 @@
+
+
+body{
+font-family:"Trebuchet MS"; 
+font-size:14px; color:#ffed71;
+ background:url("images/bg1.jpg");}
+img{border:none;}
+
+h1{ font-family:"Trebuchet MS"; 
+font-size:22px;
+font-weight:normal;
+}
+
+h2{ 
+font-family:"Trebuchet MS";
+font-size:18px;
+font-weight:normal;
+}
+
+P{ line-height:20px;}
+a{text-decoration:none; color:#ffed71;}
+a:hover{color:#ffffff;}
+
+
+
+
+
+.header-wrap{ background:url("images/bg2.jpg") repeat-x;
+height:150px; width:100%;
+ }
+
+.logo{ width:360px;
+ margin:0 auto;
+}
+
+.logo h1{ color:#ffffff;
+ font-size:45px;
+ font-weight:normal;
+ padding-top:70px; padding-bottom:40px;}
+
+
+
+
+.banner-wrap{width:960px; overflow:hidden; margin:0 auto;}
+.banner{ height:430px; background:url("images/banner-bg.png") no-repeat;}
+.banner .banner-img{ margin:0 auto; padding-top:54px; width:420px;}
+.shadow{ width:950px; height:38px; background:url("images/shadow.png") no-repeat center; margin-bottom:45px;}
+
+
+.box{ width:300px; overflow:hidden; float:left;}
+.box .panel .title{ background:url("images/line-bg.jpg") repeat-x bottom; padding-bottom:25px; margin-bottom:25px;}
+.box .panel .title span{ float:left; margin-right:12px;}
+.box .panel .title h1{ color:#ffffff; font-weight:normal;}
+
+.footer-wrap{ 
+background:url("images/bg2.jpg");
+margin-top:80px;
+overflow:hidden;
+width:960px; 
+margin:0 auto;
+}
+
+
+
+
+
+
+
